@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "icon": "./assets/icon.png",
+    "web": {
+      "bundler": "metro"
+    },
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFFFFF"
+    },
+    "name": "Jober",
+    "slug": "Jober",
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.leondev1234.Jober"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a074c52e-fd2a-4a75-b588-fa48901e27d7"
+      }
+    }
+  }
+}
